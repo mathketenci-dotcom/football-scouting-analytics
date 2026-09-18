@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sample tracking data (large, kept local only)
+sample-data/
+
+# Raw video downloads and extracted frames (copyrighted source video, never push)
+video_raw/
