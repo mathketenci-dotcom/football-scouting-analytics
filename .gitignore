@@ -8,3 +8,10 @@ sample-data/
 
 # Raw video downloads and extracted frames (copyrighted source video, never push)
 video_raw/
+
+# Pretrained CV model weights (large binary files, downloaded via setup script)
+models/
+
+# Floodlight venv and downloaded IDSSE dataset (~2.5 GB, never push)
+.venv-floodlight/
+.data/
